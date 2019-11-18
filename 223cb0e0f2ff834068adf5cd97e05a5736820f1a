@@ -1,0 +1,1 @@
+{"jobID":"2cfb5ed7-f37a-7701-dfea-8ba2f812aa01","spec":{"type":"policy","cause":{"Message":"","User":"Royee Tager \u003croyeectu@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
